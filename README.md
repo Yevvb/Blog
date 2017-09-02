@@ -1,5 +1,5 @@
 # Blog
-Issues' blog
+[Issues' blog](https://github.com/Yevvb/Blog/issues)
 
 ### hexo 写博客为什么不用了呢？
 
@@ -22,3 +22,5 @@ Issues' blog
 和别人对比得到的是伤害，那就和过去的自己对比吧
 
 ### :punch::punch::punch:
+
+:pray::pray::pray: See [Issues](https://github.com/Yevvb/Blog/issues) 
