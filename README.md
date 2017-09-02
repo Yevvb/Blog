@@ -23,4 +23,6 @@
 
 ### :punch::punch::punch:
 
-:pray::pray::pray: See [Issues](https://github.com/Yevvb/Blog/issues) 
+**See [Issues](https://github.com/Yevvb/Blog/issues)**
+
+ :pray::pray::pray:
